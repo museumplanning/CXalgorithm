@@ -5,9 +5,8 @@ Interested in creating an algorithm for museums that can help them with improvin
 
 Looking for assistance from algorithm engineers
 
-Data Mining
-
-Guidestar 501 (c) 3
+Data Mining<br />
+Guidestar 501 (c) 3<br />
 Population within one hour drive
 Attendance divided by square footage
 Trip Advisor rating
