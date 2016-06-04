@@ -7,20 +7,20 @@ Looking for assistance from algorithm engineers
 
 Data Mining<br />
 Guidestar 501 (c) 3<br />
-Population within one hour drive
-Attendance divided by square footage
-Trip Advisor rating
-Facebook followers
-Twitter followers
-Operating budget divided by attendance
-Cost per visitor
-Ratio of Revenue to Expenses
+Population within one hour drive<br />
+Attendance divided by square footage<br />
+Trip Advisor rating<br />
+Facebook followers<br />
+Twitter followers<br />
+Operating budget divided by attendance<br />
+Cost per visitor<br />
+Ratio of Revenue to Expenses<br />
 
 Objective creating a analytic to assist small museums compete in the experience economy
 
-Keywords:
-Museum Analytics
-Museum Metrics
-Museum CX
-Museum Dashboard
+Keywords:<br />
+Museum Analytics<br />
+Museum Metrics<br />
+Museum CX<br />
+Museum Dashboard<br />
 
