@@ -5,7 +5,7 @@ Interested in creating an algorithm for museums that can help them with improvin
 
 Looking for assistance from algorithm engineers
 
-Data Mining<br />
+# Data Mining<br />
 Guidestar 501 (c) 3<br />
 Population within one hour drive<br />
 Attendance divided by square footage<br />
@@ -18,7 +18,7 @@ Ratio of Revenue to Expenses<br />
 
 Objective creating a analytic to assist small museums compete in the experience economy
 
-Keywords:<br />
+# Keywords:<br />
 Museum Analytics<br />
 Museum Metrics<br />
 Museum CX<br />
