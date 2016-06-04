@@ -1,4 +1,4 @@
-# CXalgorithm
+# CX algorithm
 A CX Algorithm for museums to measure and give feedback on their Museum Customers Experience
 
 Interested in creating an algorithm for museums that can help them with improving their CX Customer Experience.
